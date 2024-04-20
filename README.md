@@ -10,13 +10,13 @@
 ```
 1_update_upgrade.sh
 ```
-## 2. install ros or ros2
+## 2. install ros or ros2 (select one that is suitable for you)
 ```
 2_ros_melodic.sh
 2_ros2_foxy.sh
 2_ros2_humble.sh
 ```
-## 3. make workspace and install r2/r2mini packages
+## 3. make workspace and install packages (select one that is suitable for you)
 ```
 3_melodic_ws_nuc.sh
 3_melodic_ws_jetson_nano.sh
