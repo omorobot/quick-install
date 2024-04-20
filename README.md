@@ -1,5 +1,5 @@
 # r2, r2mini quick install guide
-## ***You can install various items. Please refer to the list below***
+## **You can install various items. Please refer to the list below**
 ### ros melodic, related packages, ros workspace and so on
 ### ros2 foxy or humble, related packages, ros2 workspace and so on
 &nbsp;
